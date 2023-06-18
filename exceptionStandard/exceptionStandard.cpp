@@ -1,5 +1,5 @@
 #include <iostream>
-#include <exception>
+#include <exception> 
 //untuk obyek exeption yang akan digunakan
 #include <array>
 //untuk obyek array yang akan digunakan
